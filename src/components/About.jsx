@@ -15,7 +15,7 @@ const About = () => {
                 <p>Hi, I'm Andrew, nice to meet you. Please take a look around.</p>
               </div>
               <div>
-                <p>lorem, descricao bla bla bla bla bla bla bla bla</p>
+                <p>Experienced developer with a solid track record spanning over 9 years. My professional journey includes engagement with a diverse array of technologies such as Progress, Java, C#, Angular, and Javascript, contributing to the development of various applications across both small-scale and enterprise-level businesses.</p>
               </div>
             </div>
         </div>
