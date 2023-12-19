@@ -1,0 +1,75 @@
+{
+  "homeGreeting": "Hi, my name is",
+  "homeName": "Andrew Keizze da Silva",
+  "homeTitle": "I'm FrontEnd Developer.",
+  "homeDescription": "Dedicated developer with over 9 years of experience. I've worked with Progress, Java, C#, Angular, Javascript among others, programming different types of applications for small and large companies.",
+  "homeButton": "View Experience",
+
+  
+  "aboutTitle": "About",
+  "aboutGreeting": "Hi, I'm Andrew, nice to meet you. Please take a look around.",
+  "aboutDescription": "Experienced developer with a solid track record spanning over 9 years. My professional journey includes engagement with a diverse array of technologies such as Progress, Java, C#, Angular, and Javascript, contributing to the development of various applications across both small-scale and enterprise-level businesses.",
+
+  "contactTitle": "Contact",
+  "contactIntro": "Submit the form below or shoot me and email - andrew.keizze@gmail.com",
+  "placeholderName": "Name",
+  "placeholderEmail": "Email",
+  "placeholderMessage": "Message",
+  "submitButton": "Let's Collaborate",
+
+  "navHome": "Home",
+  "navAbout": "About",
+  "navSkills": "Skills",
+  "navExperience": "Experience",
+  "navContact": "Contact",
+  "socialLinkedin": "Linkedin",
+  "socialGithub": "Github",
+  "socialEmail": "Email",
+  "socialResume": "Resume",
+
+  "skillsTitle": "Skills",
+  "skillsDescription": "These are the technologies I've worked with",
+
+  "workExperienceTitle": "Experience",
+  "workExperienceSubtitle": "See my experience",
+  
+  "companyCastGroup": "CastGroup",
+  "positionCastGroup": "FrontEnd Developer",
+  "durationCastGroup": "04/2023 - Present",
+  "descriptionCastGroup": "As a front-end developer specializing in Angular 16, my current focus is on creating and enhancing software for São Paulo City Hall's SIGAM (SIMA), specifically within the Secretariat of Environment, Infrastructure, and Logistics. My responsibilities range from interface architecture to the development of innovative solutions and ongoing product maintenance. Currently, I am dedicated to modernizing and adapting legacy codes to advanced technologies that align with current market trends.",
+  "skillsCastGroup": ["Angular", "HTML", "Css", "NX", "Cypress", "Tests", "Typescript"],
+
+  "companyLovys": "Lovys",
+  "positionLovys": "Software Developer Sr",
+  "durationLovys": "03/2022 - 11/2022",
+  "descriptionLovys": "As a Developer, I contributed to the B2C project for FNAC, focused on the development of subscription-based insurance software. I used Angular as the primary framework to turn Figma mockups into a functional and engaging application. Additionally, I played an active role in conducting manual tests and the code review process, ensuring code quality and integrity. I also participated in feasibility discussions with the UX/UI team to ensure a user-friendly experience.",
+  "skillsLovys": ["Angular", "HTML", "Css", "Code Review", "Jest", "Tests", "Typescript"],
+
+  "companyItau": "Itau Unibanco",
+  "positionItau": "Software Engineer Sr",
+  "durationItau": "01/2022 - 03/2022",
+  "descriptionItau": "FrontEnd Developer in the Financing area, where I converted mockups into real implementations. Additionally, I played a crucial role in conducting unit and integration tests, performed code reviews, and participated in A/B testing. My work involved using the Angular framework in conjunction with a Java backend to ensure efficient communication between systems.",
+  "skillsItau": ["Angular", "HTML", "Css", "Code Review", "NgRx", "Tests", "Typescript"],
+
+  "companyDbc": "DBC Company",
+  "positionDbc": "FrontEnd Developer",
+  "durationDbc": "06/2021 - 12/2021",
+  "descriptionDbc": "I worked on the Open Finance project at GetNet (Santander Group), serving as a FrontEnd Developer. My responsibilities included translating Figma mockups into code and conducting manual and automated tests using tools like Jest and Karma.",
+  "skillsDbc": ["Angular", "HTML", "Css", "Bootstrap", "Javascript"],
+
+  "companyTotvs": "Totvs",
+  "positionTotvs": "FrontEnd Developer",
+  "durationTotvs": "09/2020 - 06/2021",
+  "descriptionTotvs": "I worked as a developer in a SaaS-based logistics suite, integrated with the Manufacturing team. My responsibilities included converting mockups into code, running automated and manual tests, participating in code reviews, and integrating with Azure for scalability and security improvements.",
+  "skillsTotvs": ["Angular", "HTML", "Css", "Agile", "Javascript", "Cypress", "Jasmine"],
+  
+  "positionTotvsRd": "Research and Development Engineer",
+  "durationTotvsRd": "01/2014 - 08/2020",
+  "descriptionTotvsRd": "I worked in the Framework/Foundation area of Datasul and Logix products, performing activities related to innovation and maintenance. My responsibilities included requirements gathering, documentation, database modeling, and application development using the mentioned languages/technologies. Among the activities, I highlight the conversion of screens from OpenEdge Progress technology to the web platform using Angular2 framework. I conducted tests, both manual and automated, using tools like Protractor and Postman. Additionally, I had the opportunity to create APIs for internal and external clients.",
+  "skillsTotvsRd": ["Angular", "HTML", "Css", "Agile", "Javascript", "Jenkins", "Progress 4Gl"],
+  
+  "positionTotvsTester": "Automation Tester",
+  "durationTotvsTester": "05/2012 - 01/2014",
+  "descriptionTotvsTester": "I developed test automation using company-approved tools, such as IBM Rational Robot (Visual Basic) and Visual Studio (C#). Additionally, I worked with tools that enhance the strategic work of Business Analysts, including Jenkins and JUnit.",
+  "skillsTotvsTester": ["Automated tests", "C#", "Jenkins"]
+}

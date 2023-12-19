@@ -1,0 +1,74 @@
+{
+  "homeGreeting": "Olá, meu nome é",
+  "homeName": "Andrew Keizze da Silva",
+  "homeTitle": "Sou Desenvolvedor FrontEnd.",
+  "homeDescription": "Desenvolvedor dedicado com mais de 9 anos de experiência. Trabalhei com Progress, Java, C#, Angular, Javascript, entre outros, programando diferentes tipos de aplicações para pequenas e grandes empresas.",
+  "homeButton": "Ver Experiência",
+
+  "aboutTitle": "Sobre",
+  "aboutGreeting": "Oi, eu sou o Andrew, prazer em conhecê-lo. Por favor, dê uma olhada ao redor.",
+  "aboutDescription": "Desenvolvedor experiente com um sólido histórico de mais de 9 anos. Minha jornada profissional inclui o envolvimento com uma variedade diversa de tecnologias como Progress, Java, C#, Angular e Javascript, contribuindo para o desenvolvimento de várias aplicações tanto em empresas de pequeno quanto de grande porte.",
+
+  "contactTitle": "Contato",
+  "contactIntro": "Envie o formulário abaixo ou me mande um email - andrew.keizze@gmail.com",
+  "placeholderName": "Nome",
+  "placeholderEmail": "Email",
+  "placeholderMessage": "Mensagem",
+  "submitButton": "Vamos Colaborar",
+
+  "navHome": "Início",
+  "navAbout": "Sobre",
+  "navSkills": "Habilidades",
+  "navExperience": "Experiência",
+  "navContact": "Contato",
+  "socialLinkedin": "Linkedin",
+  "socialGithub": "Github",
+  "socialEmail": "Email",
+  "socialResume": "Currículo",
+
+  "skillsTitle": "Habilidades",
+  "skillsDescription": "Estas são as tecnologias com as quais trabalhei",
+
+  "workExperienceTitle": "Experiência",
+  "workExperienceSubtitle": "Veja minha experiência",
+
+  "companyCastGroup": "CastGroup",
+  "positionCastGroup": "Desenvolvedor FrontEnd",
+  "durationCastGroup": "04/2023 - Atual",
+  "descriptionCastGroup": "Como desenvolvedor front-end especializado em Angular 16, meu foco atual é na criação e aprimoramento de software para a Prefeitura de São Paulo SIGAM (SIMA), especificamente dentro da Secretaria de Meio Ambiente, Infraestrutura e Logística. Minhas responsabilidades variam desde a arquitetura de interface até o desenvolvimento de soluções inovadoras e manutenção de produtos. Atualmente, estou dedicado a modernizar e adaptar códigos legados para tecnologias avançadas que se alinham com as tendências atuais do mercado.",
+  "skillsCastGroup": ["Angular", "HTML", "Css", "NX", "Cypress", "Testes", "Typescript"],
+
+  "companyLovys": "Lovys",
+  "positionLovys": "Desenvolvedor de Software Sr",
+  "durationLovys": "03/2022 - 11/2022",
+  "descriptionLovys": "Como Desenvolvedor, contribuí para o projeto B2C para FNAC, focado no desenvolvimento de software de seguro baseado em assinatura. Usei Angular como framework principal para transformar mockups do Figma em uma aplicação funcional e envolvente. Além disso, desempenhei um papel ativo na realização de testes manuais e no processo de revisão de código, garantindo a qualidade e integridade do código. Também participei de discussões de viabilidade com a equipe de UX/UI para garantir uma experiência amigável ao usuário.",
+  "skillsLovys": ["Angular", "HTML", "Css", "Revisão de Código", "Jest", "Testes", "Typescript"],
+
+  "companyItau": "Itau Unibanco",
+  "positionItau": "Engenheiro de Software Sr",
+  "durationItau": "01/2022 - 03/2022",
+  "descriptionItau": "Desenvolvedor FrontEnd na área de Financiamento, onde converti mockups em implementações reais. Além disso, desempenhei um papel crucial na realização de testes unitários e de integração, realizei revisões de código e participei de testes A/B. Meu trabalho envolveu o uso do framework Angular em conjunto com um backend Java para garantir uma comunicação eficiente entre os sistemas.",
+  "skillsItau": ["Angular", "HTML", "Css", "Revisão de Código", "NgRx", "Testes", "Typescript"],
+
+  "companyDbc": "DBC Company",
+  "positionDbc": "Desenvolvedor FrontEnd",
+  "durationDbc": "06/2021 - 12/2021",
+  "descriptionDbc": "Trabalhei no projeto Open Finance na GetNet (Grupo Santander), atuando como Desenvolvedor FrontEnd. Minhas responsabilidades incluíram traduzir mockups do Figma em código e realizar testes manuais e automatizados usando ferramentas como Jest e Karma.",
+  "skillsDbc": ["Angular", "HTML", "Css", "Bootstrap", "Javascript"],
+
+  "companyTotvs": "Totvs",
+  "positionTotvs": "Desenvolvedor FrontEnd",
+  "durationTotvs": "09/2020 - 06/2021",
+  "descriptionTotvs": "Trabalhei como desenvolvedor em uma suíte de logística baseada em SaaS, integrado à equipe de Manufatura. Minhas responsabilidades incluíram converter mockups em código, realizar testes automatizados e manuais, participar de revisões de código e integrar com o Azure para melhorias de escalabilidade e segurança.",
+  "skillsTotvs": ["Angular", "HTML", "Css", "Agile", "Javascript", "Cypress", "Jasmine"],
+  
+  "positionTotvsRd": "Engenheiro de Pesquisa e Desenvolvimento",
+  "durationTotvsRd": "01/2014 - 08/2020",
+  "descriptionTotvsRd": "Trabalhei na área de Framework/Fundação dos produtos Datasul e Logix, realizando atividades relacionadas à inovação e manutenção. Minhas responsabilidades incluíram coleta de requisitos, documentação, modelagem de banco de dados e desenvolvimento de aplicativos usando as linguagens/tecnologias mencionadas. Entre as atividades, destaco a conversão de telas da tecnologia OpenEdge Progress para a plataforma web usando o framework Angular2. Realizei testes, tanto manuais quanto automatizados, usando ferramentas como Protractor e Postman. Além disso, tive a oportunidade de criar APIs para clientes internos e externos.",
+  "skillsTotvsRd": ["Angular", "HTML", "Css", "Agile", "Javascript", "Jenkins", "Progress 4Gl"],
+  
+  "positionTotvsTester": "Testador de Automação",
+  "durationTotvsTester": "05/2012 - 01/2014",
+  "descriptionTotvsTester": "Desenvolvi automação de testes usando ferramentas aprovadas pela empresa, como IBM Rational Robot (Visual Basic) e Visual Studio (C#). Além disso, trabalhei com ferramentas que aprimoram o trabalho estratégico de Analistas de Negócios, incluindo Jenkins e JUnit.",
+  "skillsTotvsTester": ["Testes automatizados", "C#", "Jenkins"]
+}
